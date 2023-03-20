@@ -9,12 +9,45 @@ h1 {
     font-size: 64px;
 }
 h2 {
+    background-color: blue;
     font-size: 32px;
     font-weight: bold;
 }
-.hyperlink {
-    background-color: green;
-    text-align: center;
+.links {
     font-weight: bold;
+    font-size: 16px;
+    background-color: white;
+}
+.frontpage {
     font-size: 32px;
+}
+#lasagna {
+    background-color: aqua;
+}
+#curry {
+    background-color: rgb(20, 216, 20);
+}
+#burger {
+    background-color: yellow;
+}
+.meat {
+    color: red;
+    font-weight: bold;
+}
+.from-animal {
+    color: yellow;
+    font-weight: bold;
+}
+.herbs {
+    color: rgb(30, 223, 30);
+}
+.spices {
+    color: aqua;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+ol {
+    font-size: 24px;
 }
